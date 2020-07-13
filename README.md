@@ -1,2 +1,0 @@
-# sqlDemo
-sql练习
